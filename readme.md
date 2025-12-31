@@ -1,0 +1,6 @@
+So this is my solution to a challenge on hackerRank: “Check for Non-Identical String Rotation”.
+
+So if you do not want the answer, do not look at this…
+If you copy and pasted this code it will not work properly, because the answer is committed out at the top of the code…
+
+Underneath that; is the code I wrote, and when run in a terminal. Produces if the test passes or if they do not (fail), and what was tested, how it was tested; the expected output, and the actual output.
